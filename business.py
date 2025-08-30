@@ -1,4 +1,3 @@
-import math
 import io
 import base64
 
