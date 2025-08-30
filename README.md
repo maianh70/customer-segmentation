@@ -1,9 +1,9 @@
-## Customer Segmentation App
+# Customer Segmentation App
 
-# Usage 
+## Usage 
 This project provides an interactive tool for performing customer segmentation on retail purchase data. It leverages KMeans clustering on three key features: Recency, Frequency, and Monetary to help analyze customer behavior. The app allows users to explore the data, tune clustering parameters, and visualize segmentation results.
 
-# Features
+## Features
 1. Data Inspection
    - Explore the distribution of Recency, Frequency, and Monetary features for a selected country.
    - Visualizations include histograms, scatter plots, and box plots.
