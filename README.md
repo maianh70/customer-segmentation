@@ -15,7 +15,7 @@ This project provides an interactive Dash web application for performing custome
    - Compute Inertia Errors and Silhouette Scores for different numbers of clusters. The users can choose the range of the cluster themselves.
    - Help select the most suitable number of clusters for the KMeans model.
    <img width="1906" height="917" alt="Ảnh chụp màn hình 2025-08-31 115916" src="https://github.com/user-attachments/assets/e4309525-019a-440f-b7af-71dd12939541" />
-3. Segmentation Visualization-
+3. Segmentation Visualization
    - Visualize the final customer segments using:
        2D Scatter Plot (after PCA reduction)
      <img width="1904" height="919" alt="Ảnh chụp màn hình 2025-08-31 120007" src="https://github.com/user-attachments/assets/486c2772-79df-424a-8fb7-e95245ab9972" />
