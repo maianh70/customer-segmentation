@@ -6,6 +6,7 @@ This project provides an interactive Dash web application for performing custome
 ## Features
 1. Data Inspection
    - Explore the distribution of Recency, Frequency, and Monetary features for a selected country.
+   <img width="1903" height="653" alt="Ảnh chụp màn hình 2025-08-31 120106" src="https://github.com/user-attachments/assets/abb65418-ea87-4e2b-a1ca-a48b053ef638" />
    - Visualizations include histograms, scatter plots, and box plots.
 2. Cluster Evaluation
    - Compute Inertia Errors and Silhouette Scores for different numbers of clusters.
