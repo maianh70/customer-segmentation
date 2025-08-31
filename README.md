@@ -1,4 +1,4 @@
-<img width="1905" height="918" alt="Ảnh chụp màn hình 2025-08-31 115543" src="https://github.com/user-attachments/assets/61497185-e4b6-41f0-8422-dfed0211e443" /><img width="1906" height="917" alt="Ảnh chụp màn hình 2025-08-31 115916" src="https://github.com/user-attachments/assets/f9f4aa52-9e00-43b6-b18b-e0e157661aa4" /># Customer Segmentation App
+# Customer Segmentation App
 
 ## Usage 
 This project provides an interactive Dash web application for performing customer segmentation on retail purchase data. It leverages KMeans clustering on three key features: Recency, Frequency, and Monetary, to help analyze customer behavior. The app enables users to explore the data, adjust clustering parameters, and dynamically visualize segmentation results.
@@ -17,7 +17,7 @@ This project provides an interactive Dash web application for performing custome
    <img width="1906" height="917" alt="Ảnh chụp màn hình 2025-08-31 115916" src="https://github.com/user-attachments/assets/e4309525-019a-440f-b7af-71dd12939541" />
 3. Segmentation Visualization-
    - Visualize the final customer segments using:
-       2D Scatter Plot (after PCA reduction)
+       </b>2D Scatter Plot (after PCA reduction)<b>
      <img width="1904" height="919" alt="Ảnh chụp màn hình 2025-08-31 120007" src="https://github.com/user-attachments/assets/486c2772-79df-424a-8fb7-e95245ab9972" />
        3D Scatter Plot
      <img width="1909" height="920" alt="Ảnh chụp màn hình 2025-08-31 120032" src="https://github.com/user-attachments/assets/0bd4dbaf-0f4f-4211-a5d9-1b3b5d97428b" />
