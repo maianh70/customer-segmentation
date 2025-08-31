@@ -1,4 +1,4 @@
-<img width="1903" height="472" alt="Ảnh chụp màn hình 2025-08-31 123537" src="https://github.com/user-attachments/assets/74bf9eaf-0a16-459f-a99a-c8f3877fec05" /># Customer Segmentation App
+# Customer Segmentation App
 
 ## Usage 
 This project provides an interactive Dash web application for performing customer segmentation on retail purchase data. It leverages KMeans clustering on three key features: Recency, Frequency, and Monetary, to help analyze customer behavior. The app enables users to explore the data, adjust clustering parameters, and dynamically visualize segmentation results.
