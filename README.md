@@ -7,7 +7,7 @@ This project provides an interactive Dash web application for performing custome
 1. Data Inspection
    - Explore the distribution of Recency, Frequency, and Monetary features for a selected country.
    <img width="1903" height="653" alt="Ảnh chụp màn hình 2025-08-31 120106" src="https://github.com/user-attachments/assets/abb65418-ea87-4e2b-a1ca-a48b053ef638" />
-   - Visualizations include histograms, scatter plots, and box plots.
+   - Visualizations include scatter plots, histograms and box plots.
    <img width="1901" height="480" alt="Ảnh chụp màn hình 2025-08-31 120149" src="https://github.com/user-attachments/assets/218e7133-e182-4260-be52-1fec9aa5a3ee" />
    <img width="1903" height="472" alt="Ảnh chụp màn hình 2025-08-31 123537" src="https://github.com/user-attachments/assets/99eb1db6-51f2-4d56-8322-d834b309a5e5" />
    <img width="1901" height="474" alt="Ảnh chụp màn hình 2025-08-31 120211" src="https://github.com/user-attachments/assets/1a3a7a62-1ea0-4280-af73-54231570d29d" />
