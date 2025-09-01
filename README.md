@@ -25,6 +25,4 @@ This project provides an interactive Dash web application for performing custome
 ## Dataset
 - Online Retail.csv contains transactional data used for segmentation.
 - Key features used for clustering:
-  Recency: Days since last purchase
-  Frequency: Number of purchases
-  Monetary: Total spent
+  Recency: Days since last purchase, Frequency: Number of purchases, Monetary: Total spent
